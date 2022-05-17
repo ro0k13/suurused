@@ -122,6 +122,9 @@
     .main-container h1 {
         margin: 1rem auto;
     }
+    .footer ul a{
+        color:azure;
+    }
     
 }
 
@@ -143,6 +146,9 @@
     }
     .navigation ul li {
         border: 1px solid rgb(153, 45, 45);
+    }
+    .footer ul a{
+        color:#777;
     }
 
 }
